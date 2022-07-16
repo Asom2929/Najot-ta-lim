@@ -1,0 +1,16 @@
+.box{
+    
+    width: 1366px;
+    height: 5000px;
+    margin: 0 auto;
+    
+}
+
+.h2{
+    margin: 0 auto;
+    position: fixed;
+    width: 500px;
+    background-color: aquamarine;
+    height: 100px;
+    opacity: .8;
+}
